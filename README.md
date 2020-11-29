@@ -1,2 +1,2 @@
-# 04-alert
-Use the alert method to retrieve user input.
+# 04-prompt
+Use the prompt method to retrieve user input.
